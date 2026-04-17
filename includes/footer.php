@@ -17,33 +17,36 @@
           <a class="footer-icon" href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
           <a class="footer-icon" href="#" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
           <a class="footer-icon" href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+          <p>
+            <a href="https://www.iesig-education.fr/">Site de l'école</a>
+          </p>
         </div>
       </div>
 
       <!-- Links -->
       <div class="col-6 col-lg-2">
-        <div class="footer-title">Navigation</div>
+        <div class="footer-title">Navigations</div>
         <ul class="list-unstyled footer-links">
           <li><a href="index.php">Accueil</a></li>
           <li><a href="annuaire.php">Annuaire</a></li>
-          <li><a href="evenements.php">Événements</a></li>
+          <li><a href="events.php">Événements</a></li>
           <li><a href="offres.php">Offres</a></li>
         </ul>
       </div>
 
       <div class="col-6 col-lg-2">
-        <div class="footer-title">Compte</div>
+        <div class="footer-title">Comptes</div>
         <ul class="list-unstyled footer-links">
           <li><a href="login.php">Connexion</a></li>
           <li><a href="register.php">Inscription</a></li>
-          <li><a href="profil.php">Mon profil</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="#">Mon profil</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
       </div>
 
       <!-- Contact -->
       <div class="col-lg-4">
-        <div class="footer-title">Contact</div>
+        <div class="footer-title">Contacts</div>
 
         <div class="footer-card">
           <div class="footer-item">
